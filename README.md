@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently studying on business analytics in Emory University
+- 🌱 I’m currently learning SQL, Python, R, Tableau
+- 👯 I’m looking to collaborate on giving valueable solutions
+- 🤔 I’m looking for help with learning language and culture
+- 💬 Ask me about my future plan
+- 📫 How to reach me: cynthia.kong@emory.edu
+
+Link to [LinkedIn](https://www.linkedin.com/in/xinyue-kong-emorymsba/)
 <!--
 **cynthia087/cynthia087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
