@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-- 🔭 I’m currently studying on business analytics in Emory University
-- 🌱 I’m currently learning SQL, Python, R, Tableau
-- 👯 I’m looking to collaborate on giving valueable solutions
+- 🔭 I'm currently a data analyst making data-driven decisions and build products
+- 😄 I graduate from Master of Science in Business Analytics in Emory University  
+- 🌱 I graduate from BBA in Nanjing University
+- ⚡ I’m currently using SQL, Python, R, Tableau
+- 👯 I’m looking to collaborate on giving valueable business solutions
 - 🤔 I’m looking for help with learning language and culture
 - 💬 Ask me about my future plan
-- 📫 How to reach me: cynthia.kong@emory.edu
+- 📫 How to reach me: cynthiakong087@gmail.com
 
 Link to [LinkedIn](https://www.linkedin.com/in/xinyue-kong-emorymsba/)
 <!--
