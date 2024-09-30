@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently a data analyst making data-driven decisions and build products
 - 😄 I have diverse experience across multiple industries, including consulting at EY, technology at Baidu, finance at Citic Securities and Guotai Junan Institute, as well as banking at Fudian Bank
-- 🌱 I graduate from Master of Science in Business Analytics in Emory University and BBA in Nanjing University 
+- 🌱 I graduate from Master of Science in Business Analytics in Emory University in 2025 and BBA in Nanjing University 
 - ⚡ I’m currently using SQL, Python, R, Tableau
 - 👯 I’m looking to collaborate on giving valueable business solutions
 - 🤔 I’m looking for help with learning language and culture
